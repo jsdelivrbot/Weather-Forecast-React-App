@@ -1,2 +1,25 @@
-# Weather-Forecast-React-App
-Built with React.js and Redux, this fast, light-weight application takes an input of your favorite city and fetches the five day forecast. You are also able to pin multiple cities to your home screen for fast feedback.
+# ReduxSimpleStarter
+
+Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+
+### Getting Started
+
+There are two methods for getting started with this repo.
+
+#### Familiar with Git?
+Checkout this repo, install dependencies, then start the gulp process with the following:
+
+```
+> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> cd ReduxSimpleStarter
+> npm install
+> npm start
+```
+
+#### Not Familiar with Git?
+Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+
+```
+> npm install
+> npm start
+```
